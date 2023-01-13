@@ -7,7 +7,7 @@ This webpage is a multiple choice quiz to test the user's coding knowlege.
 
 The following image shows an example of the quiz in use:
 
-![Coding Quiz](./assets/images/screenshot2.png)
+![Coding Quiz] <!--- Not yet reade... (./assets/images/screenshot2.png) -->
 
 ## Installation
 
