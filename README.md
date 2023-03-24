@@ -7,7 +7,7 @@ This webpage is a multiple choice quiz to test the user's coding knowlege.
 
 The following image shows an example of the quiz in use:
 
-![Coding Quiz] <!--- Not yet reade... (./assets/images/screenshot2.png) -->
+![Coding Quiz](./assets/images/screenshot.png)
 
 ## Installation
 
@@ -15,7 +15,7 @@ N/A
 
 ## Usage
 
-The deployed application can be found here: <!--- Uncomment once deployed https://allen-ec.github.io/codequiz/ -->
+The deployed application can be found here: https://allen-ec.github.io/codequiz/
 
 On clicking "Generate password", you will be asked to choose the length of password required.
 Enter a value between 10 and 64 inclusive.
